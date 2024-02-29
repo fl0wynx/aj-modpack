@@ -1,0 +1,73 @@
+# Version 0.9.1
+
+## _REMOVED MODS_
+
+
+
+## _ADDED MODS_
+
+
+
+## _UPDATED MODS_
+
+Iron's Spells 'n Spellbooks [2.2.1 -> 3.0.0]
+
+## _ADDED DATAPACKS_
+ 
+
+
+## Other
+
+- **Removed Herobrine.**
+
+-------------------------------------------------------------------------------------------
+
+# Version 0.9.0
+
+## _REMOVED MODS_
+
+Adorn / **Better Advancements** / DEUF - Duplicate Entity UUID Fix / **First-person Model** / Not Enough Animations / **Shadowlands** / Deep Aether
+Endless Biomes / **Better Combat** / Geophilic / **Merchant Markers** / Snow Under Trees / **The Lost Castle** / Tidal Towns
+e4mc / **Just Zoom** / Traveler's Backpack / **DivineRPG** / Additional Structures / **Auudio** / Bartering Station
+Hang Glider / **Illager Invasion** / Let's Do: Vinery / **Let's Do: Bakery** / Let's Do: API / **No Villager Death Messages** / Towers of the Wild Modded
+Trading Post / **XaeroPlus** / Easy Magic / **Easy Anvils** / Every Compat (Wood Good) / **Magnum Torch** / Panorama Screens
+Tiny Item Animations / **MVS - Moog's Voyager Structures** / Paraglider
+
+## _ADDED MODS_
+
+Epic Fight / **ESSENTIAL Mod** / Iron's Spells 'n Spellbooks / **Epic Fight & Other Mods Weapons Compabilities** / Nether Dungeons / **Gnumus Settlement** / Infinity Cave
+The Man From The Fog / **Tom's Simple Storage Mod** / Just Enough Guns
+
+## _UPDATED MODS_
+
+FancyMenu [3.0.5 -> 3.1.0] / **Drippy Loading Screen [3.0.0 -> 3.0.1]** / Alex's Caves [1.1.0 -> 1.1.1] / **Citadel [2.4.9 -> 2.5.3]** / Ice and Fire [2.1.13-beta-2 -> 2.1.13-beta-4]
+Architectury API [9.1.12 -> 9.1.13] / **Artifacts [9.2.1 -> 9.2.2]** / Bookshelf [20.1.8 -> 20.1.9] / **CTOV [3.3.6 -> 3.4.2]** / Collective [1.20.1-7.30 -> 1.20.1-7.34]
+Connector Extras [1.9.0 -> 1.9.3] / **CoroUtil [1.20.1-1.3.6 -> 1.20.1-1.3.7]** / CreativeCore [2.11.23 -> 2.11.24] / **Creeper Overhaul [3.0.1 -> 3.0.2]** / Curios API [5.6.1 -> 5.7.0]
+EMI [1.1.0 -> 1.1.2] / **ESSENTIAL [1.3.0.5 -> 1.3.0.6]** / Embeddium [0.2.12 -> 0.3.6] / **Embeddium Extra [0.5.3.1 -> 0.5.4]** / Forgified Fabric API [0.90.7+1.10.3+1.20.1 -> 0.92.0+1.11.3+1.20.1]
+Fusion [1.1.0c-forge-mc1.20.1 -> 1.1.1-forge-mc1.20.1] / **Habitat [1.2.5 -> 1.3.0]** / Handcrafted [3.0.5 -> 3.0.6] / **Immersive Weathering [1.20.1-2.0.0 -> 1.20.1-2.0.1]** / KubeJS [build.130 -> build.138]
+Majrusz Library [7.0.4 -> 7.0.5] / **Majrusz's Progressive Difficulty [1.9.7 -> 1.9.8]** / Melody [1.0.2 -> 1.0.3] / **Moving Elevators [1.4.5 -> 1.4.6]** / Mystical Agriculture [7.0.8 -> 7.0.9]
+Necronomicon API [1.4.1 -> 1.4.2] / **ObsidianUI [0.2.0 -> 0.2.1]** / OctoLib [0.1 -> 0.3] / **Oculus [1.20.1-1.6.9 -> 1.20.1-1.6.15a]** / Packet Fixer [1.2.1 -> 1.2.8]
+Puzzles Lib [8.1.16 -> 8.1.17] / **Regions Unexplored [0.5.3.1 -> 0.5.4]** / Resourceful Lib [2.1.21 -> 2.1.23] / **Simple Planes [1.20.1-5.2.6 -> 1.20.1-5.2.7]** / SuperMartijn642's Core [1.1.16 -> 1.1.17]
+TexTrue's Embeddium Options [0.1.3 -> 0.1.5] / **The Bumblezone [7.2.7 -> 7.2.13]** / The Outer End [0.3.2 -> 1.0.0] / **Tips [12.0.4 -> 12.0.5]** / What Are You Voting For [1.2.3 -> 1.2.4]
+ETF [5.2.2 -> 5.2.3]
+
+## _ADDED DATAPACKS_
+ 
+EFM Compat for Aquamirae, Born in Chaos and L-Ender's Cataclysm by Luigi delle Bicocche
+</details>
+
+## Other
+- **The main menu background file size has been significantly reduced (200mb → 77mb).**
+- **Removed FTB mods from the modpack download to comply with their copyright policies. You will need to install them manually.**
+- **Added quests for the following mods:**
+_MineColonies
+Iron's Spells 'n Spellbooks
+Ice and Fire: Dragons
+L-Ender's Cataclysm
+Gnumus Settlement
+Aquamirae_
+- **Removed quests chapters:**
+_Eden_
+- **Now the custom music will play also on other screens and not only in the main menu.**
+- **Removed Herobrine.**
+
